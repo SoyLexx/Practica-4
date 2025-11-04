@@ -1,3 +1,3 @@
 # Practica-4
 
-Modificación hecha por Daniel Gómez Teruel
+Parte desarrollada por Daniel Gómez Teruel
